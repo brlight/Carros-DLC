@@ -1,0 +1,7 @@
+-------- 17 Novas Viaturas Dlc-------------
+
+Basta Dropar Ficheiro Sql Na Data Base.
+
+Alterar Valor Dos Veiculos Ao Vosso Gosto
+
+--------------------------------------------
